@@ -1,5 +1,5 @@
 - Hi, I’m @awildchocobo 👋 PRO #cybersecurity #infosec #womenintech
-- My interests are programming, infosec, networking, and all things computers. Still learning about these!
+- My interests are programming, infosec, networking, and anything related to computers - still always learning.
   - For code, specifically... Python. Previous experience in Java, Javascript, HTML.
 
 <!---
