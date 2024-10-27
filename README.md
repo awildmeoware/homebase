@@ -1,6 +1,6 @@
-- Hi, I’m @awildchocobo 👋 PRO #cybersecurity #infosec #womenintech
-- My interests are programming, infosec, networking, and anything related to computers - still always learning.
-  - For code, specifically... Python. Previous experience in Java, Javascript, HTML.
+- Hi, I’m @awildmeoware 👋 #cybersecurity #infosec #womenintech
+- My interests are programming, infosec, networking, tech stuff, cats, and videogaming.
+  - String cys_career = "WIP";
 
 <!---
 awildchocobo/awildchocobo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
